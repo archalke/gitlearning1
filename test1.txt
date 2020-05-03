@@ -3,3 +3,6 @@ first line to merge
 first comment
 
 second comment for new branch
+
+
+Final copy
